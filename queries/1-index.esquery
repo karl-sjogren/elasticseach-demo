@@ -1,0 +1,12 @@
+PUT esdemo-animals/_doc/1
+{
+    "type": "long-necked-animals",
+    "name": "Giraffe 🦒"
+}
+
+PUT esdemo-animals/_doc/2
+{
+    "type": "free-ranging-animals",
+    "name": "Zebra 🦓",
+    "preferred_environment": "Savannah"
+}

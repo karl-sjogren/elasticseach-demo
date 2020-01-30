@@ -1,0 +1,63 @@
+GET esdemo-reviews/_search
+{
+    "size": 0,
+    "aggs" : {
+        "by" : {
+            "terms" : { "field" : "by" } 
+        },
+        "reviewer" : {
+            "terms" : { "field" : "reviewer" } 
+        }
+    }
+}
+
+GET esdemo-reviews/_search
+{
+    "size": 0,
+    "aggs" : {
+        "by" : {
+            "terms" : { "field" : "title" } 
+        },
+        "reviewer" : {
+            "terms" : { "field" : "reviewer" } 
+        }
+    },
+    "query": {
+        "multi_match": {
+            "fields": [
+                "*"
+            ],
+            "query": "Polisen"
+        }
+    }
+}
+
+GET esdemo-reviews/_search
+{
+    "size": 0,
+    "aggs" : {
+        "by" : {
+            "terms" : { "field" : "by" } 
+        },
+        "reviewer" : {
+            "terms" : { "field" : "reviewer" } 
+        }
+    },
+    "query": {
+        "bool": {
+            "must": {
+                "multi_match": {
+                    "fields": [
+                        "*"
+                    ],
+                    "query": "Polisen"
+                }
+            },
+            "filter": {
+                "term": {
+                    "by": "Christie, Agatha"
+                }
+            }
+        }
+    }
+}

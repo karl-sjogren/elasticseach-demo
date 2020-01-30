@@ -1,0 +1,197 @@
+POST _bulk
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "22/11 1963", "by": "King, Stephen", "reviewer": "Sonja Viklund", "preamble": "En man reser femtio år tillbaka i tiden för att försöka skriva om historien och hindra mordet på John F Kennedy." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "4.50 från Paddington", "by": "Christie, Agatha", "reviewer": "Helen Forsberg", "preamble": "När polisen inte lyssnar på mrs McGillicuddy när hon vill rapportera ett mord, vänder hon sig till sin vän miss Marple." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "A Bad Spell in Yurt", "by": "Brittain, C. Dale", "reviewer": "Karin Engman", "preamble": "Huvudpersonen, Daimbert, är en väldigt slö elev som i trollkarlsskolan egentligen bara hade lärt sig få vinglasen att komma till honom så han slapp lyfta dem själv. Med nöd och näppe klarar han sin examen. Han får jobb i det lilla obetydliga kungadömet Yurt." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "3096 dagar", "by": "Kampusch, Natascha", "reviewer": "Nora Filipsson", "preamble": "Boken handlar om Natascha Kampusch. Som tioåring blir hon bortrövad av en man som håller henne instängd i en liten håla som styrs av en lampa." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Absolut Per Nilsson", "by": "Nilsson, Per", "reviewer": "Annika Edlund", "preamble": "En bok för alla Per Nilsson-fans! Här är alla våra älskade vänner från Per Nilssons ungdomsromaner i en och samma bok. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Africa on my mind", "by": "Samuelsson, Marcus", "reviewer": "Aina Gustavsson", "preamble": "Smaker, recept och intryck från hela kontinenten. Öppna ditt hem för Afrikas ledigare, friare och mer avslappnade livsstil!" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "A head full of ghosts", "by": "Tremblay, Paul", "reviewer": "Anonym", "preamble": "En återblick och försök att förstå vad som egentligen hände när Merrys syster som barn blev psykiskt sjuk. Eller var det egentligen demoner, som deras far tror?" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "100% official Justin Bieber", "by": "Bieber, Justin", "reviewer": "Victoria Edman", "preamble": "Har du drabbats av Bieber-feber? Vill du veta mer om Justin Bieber? Här har du boken om honom!" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "American hardcore", "by": "Blush, Steven", "reviewer": "Torbjörn Rolandsson", "preamble": "Den var mer extrem. Hårdare, snabbare och mindre plojig. Steven Blush samlar berättelser om den amerikanska hardcorepunkens födelse. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Agaat", "by": "Van Niekerk, Marlene", "reviewer": "Christina Landström", "preamble": "En berättelse om relationen mellan lantbrukarhustrun Milla de Wet och barnflickan Agaat i efterdyningarna av apartheidsystemet. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Anna d´Arc", "by": "Sandén, Mårten", "reviewer": "Anna Holmström Degerman", "preamble": "Mårten Sandéns andra ungdomsroman handlar om att bryta mönster. Går det överhuvudtaget? Är den mobbade för alltid bestämd till att vara mobbad?" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Alla monster måste dö", "by": "Bärtås, Magnus", "reviewer": "Sonja Viklund", "preamble": "En udda grupp turister på strikt kontrollerad rundresa i världens mest slutna land – Nordkorea." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Amish", "by": "Bengtson, Erik", "reviewer": "Staffan Olofsson", "preamble": "Amishkulturen i Pennsylvania verkar väcka ett allt större intresse. En som har stor erfarenhet är Erik Bengtson." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Allt för min syster", "by": "Picoult, Jodi", "reviewer": "Ingegerd Rönnbäck", "preamble": "Designerbarn - är det rätt eller fel? Det här är en tankeväckande bok som driver många frågor till sin spets.  Har du rätt att bestämma över din egen kropp även om du bara är ett barn?" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Anna och den franska kyssen", "by": "Perkins, Stephanie", "reviewer": "Andréa Ejelöv", "preamble": "Anna vill inte alls gå skola i Frankrike, men hennes pappa är bestämd. Hon får kämpa med språket, hemlängtan och kärleken." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Airhead", "by": "Cabot, Meg", "reviewer": "Maryam Katibeh", "preamble": "Det handlar om en vanlig tjej, som får alla tjejers dröm, fast hon vill inte det." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Amanda och ängeln i flaskan", "by": "Nyman, Anders", "reviewer": "Maria Nergård Marklund ", "preamble": "Amanda vaknar mitt i natten av en mardröm och smyger in i föräldrarnas sovrum och lägger sig bredvid mamma och hennes stora mage. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Aldrig mera fri", "by": "Blædel, Sara", "reviewer": "Helen Forsberg", "preamble": "En kvinna hittas brutalt mördad i Köpenhamn och polisen måste gå varsamt fram. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Aldrig att jag bor med henne", "by": "Plaisted, Caroline", "reviewer": "Annika Edlund", "preamble": "Suzys pappa dog i en bilolycka när hon var åtta år. Det är nu många år sedan, men Suzy skriver fortfarande brev till sin döda pappa." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Alfa - spökhästen", "by": "Blade, Adam", "reviewer": "Ebba Hampusson", "preamble": "Det här är en spännande bok där huvudpersonerna Elenna och Tom är ute på odjursjakt för att rädda Toms pappa." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Amiralens arvinge", "by": "Mould, Chris", "reviewer": "Anna Cron", "preamble": "En dag får Stanley en utsirad nyckel med posten. Nyckeln till ett väldigt speciellt hus." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Allt du behöver veta om hundar", "by": "Alderton, David", "reviewer": "Jenny Berggren", "preamble": "Lättöverskådlig snabbfakta om cirka 350 hundraser från hela världen." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Allt jag önskar mig", "by": "Delacourt, Grégoire", "reviewer": "Astrid Jonsson", "preamble": "Om man har ekonomiska möjligheter att uppfylla alla sina önskningar hur blir det då? En fängslande bok på knappt 200 sidor utforskar temat. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Allt jag önskar mig", "by": "Delacourt, Grégoire", "reviewer": "Andrea Ejelöv", "preamble": "Jocelyne är rätt så nöjd med sitt liv, även om det finns några saker som kunde vara bättre. Plötsligt en dag vinner hon en stor summa pengar, men en storvinst leder inte alltid till lycka." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Allt vad marken gömmer", "by": "Sjögren, Annika", "reviewer": "Helen Forsberg", "preamble": "Vissa saker borde ligga kvar i glömska och inte dras upp till ytan. Det kan få ödesdigra konsekvenser." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Alltid för er", "by": "Lindh, Gunilla", "reviewer": "Malin Granberg", "preamble": "På kort tid får författarens tre barn samma allvarliga diagnos och blir lämnad av sin make. I samma veva förlorar hon också sin mamma i cancer. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Archie", "by": "Nohrin Jernberg, Bitte", "reviewer": "Hanna From", "preamble": "Boken handlar om draken Archie. Archie träffar pojken Edi och tillsammans hittar de Edis far." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Berättelser från ett (inte så) fantastiskt liv", "by": "Russell, Rachel Renée", "reviewer": "Emilia Östensson", "preamble": "Nikkis dagbok #1 är en superbra bok om Nikki som börjar på en ny skola. Det är första delen i en serie." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blå dragonerna", "by": "Berg, Curt", "reviewer": "N N", "preamble": "En klassisk skildring av livet i småstaden Umeå från 1890-talet till 1930." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Beskyddaren", "by": "Coben, Harlan", "reviewer": "Andrea Ejelöv", "preamble": "Det enda positiva i Mickeys liv är flickvännen Ashley och nu är hon spårlöst försvunnen. Han måste hitta henne, men det visar sig vara svårare och farligare än han någonsin trott." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bläckhjärta", "by": "Funke, Cornelia", "reviewer": "Jenny Viklund", "preamble": "Boken handlar om en flicka som heter Meggie som har en pappa som är bokbindare." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bortom stjärnan", "by": "Nemert, Elisabet", "reviewer": "Sylvia Carlsson", "preamble": "Du som ännu inte läst Elisabet Nemerts historiska romaner Bortom stjärnan, Den vita liljan och Rovfåglarnas tid: läs dem! De är välskrivna, spännande och mycket läsvärda." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blodets hetta", "by": "Némirovsky, Irène", "reviewer": "Wiveca (Vicky) Uhlander", "preamble": "En stillsam skildring av livet på den franska ladsbygden under mellankrigstiden, som så småningom utvecklas till en minideckare." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blodets röst", "by": "Nordin, Magnus", "reviewer": "Wiveca (Vicky) Uhlander", "preamble": "Magnus Nordin har skrivit ännu en spännande roman om den unge Daniel och varulven Kira som åter sugs in i en mardröm.  " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blåbärshäxan", "by": "Holm, Annika", "reviewer": "Josefin Rönngren", "preamble": "Tänk om kvinnan som ska ta hand om dig i en hel vecka visar sig vara en hemsk och elak häxa. Det är vad som hände Annika och Eva." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Botilda Bengtssons nya liv", "by": "Edvall, Lilian", "reviewer": "Annika Edlund", "preamble": "Botilda är 6 år och ska flytta. Hon har fått två stora flyttkartonger. På den ena står det Mamma och på den andra Pappa." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Berättelser om djur", "by": "Fogelberg, Täppas", "reviewer": "Kerstin Hasselgärde", "preamble": "Underhållande och känsloväckande bok om alla sorters möten med djur, som väcker många egna minnen. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blodspår", "by": "Connelly, Michael", "reviewer": "Victoria Jonsson", "preamble": "Efter en organtransplantation undersöker den före detta FBI-agenten sin egen donators öde. Hans tid inom FBI dras upp igen och historien drar iväg åt ett oväntat håll." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Boktjuven", "by": "Zusak, Markus", "reviewer": "Sara Isaksson", "preamble": "Den här boken tycker jag om för att man blir glad av den, trots att den är så sorglig." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blodsarv", "by": "Mina, Denise", "reviewer": "Astrid Jonsson", "preamble": "Här presenterar Denise Mina en ny huvudperson, en 18-årig tjej som är springflicka på en tidningsredaktion. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bitar av mig själv", "by": "Sundström, Gun-Britt", "reviewer": "Staffan Olofsson", "preamble": "Om det finns någon som skulle kunna kalla sig Käringen mot strömmen, förutom Bang, måste det absolut vara Gun-Britt Sundström." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blomsterspråket", "by": "Diffenbaugh, Vanessa", "reviewer": "Elenor Lindberg", "preamble": "En engagerande historia om barnhemsflickan Victoria, som efter många försök hittar ett hem som hon trivs i. Men vändningarna i den här romanen har då bara börjat." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blommor på Höökens grav", "by": "Arro, Lena", "reviewer": "Annika Edlund", "preamble": "Marie får följa med Mirja till familjens sommarstuga. När de blir inblandade i en riktig spökhistoria, får de ett mer spännande sommarlov än de hade väntat sig." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Branden", "by": "Holmström Degerman, Anna", "reviewer": "Margaretha Sundelin", "preamble": "Boken handlar om Niklas och Jossan som är bästa kompisar. När boken börjar bakar de pepparkakor och ska sälja till en klassresa. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Breven", "by": "Anderson, Håkan", "reviewer": "Lennart Kihlberg", "preamble": "Hör du till dem som börjat ge upp hoppet om spänningslitteratur efter att ha plöjt igenom ytterligare en \"samhällsmedveten\" deckare med obligatoriska inslag av sexuella perversioner?  Har du nätt och jämnt orkat läsa ut  den sjuttielfte prisbelönta anglosaxiska romanen med uttjatade familjerelationer som tema? Suktar du efter en bok som bjuder på lika delar spänning, romantik och lärda anspelningar på filosofi och konsthistoria?" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Biljana är bäst!", "by": "Jonols, Martin", "reviewer": "Annika Edlund", "preamble": "Det är inte lätt att vara Biljana. Att bli sviken av kompisar, att se sin pappa deppa och att vara olyckligt kär i Daniel med dreadlocks. Men Biljana ger inte upp." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blommor i Sverige", "by": "Janzon, Lars-Åke", "reviewer": "Astrid Jonsson", "preamble": "En flora att älska." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blodsbarn", "by": "Bowler, Tim", "reviewer": "Annika Edlund", "preamble": "Efter en olycka tappar Will minnet. Med hjälp av föräldrarna kommer en del tillbaka, men han plågas av syner. Det är som om han fått ett nytt sinne och han märker en ondska som sprids i staden." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Avgrundens änglar", "by": "Nordin, Magnus", "reviewer": "Andrea Ejelöv", "preamble": "De är Avgrundens änglar, de som skipar rättvisa på sitt eget sätt när rättssystemet misslyckas. Nu står de inför en enorm uppgift. Ondskan de jagar finns inom polisen." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Att bo", "by": "Kristina Andersson", "reviewer": "Nadel, Barbara", "preamble": "En turkisk åttabarnsfar som kedjeröker och super som en riktig borstbindare." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bara tre kan leka så", "by": "Rudberg, Denise", "reviewer": "Eva Häggström", "preamble": "En cool hjältinna som är +50 år är ovanligt inom deckarvärlden, men Denise Rudberg har skapat en speciell stil, elegant crime, i böckerna om den medelålders åklagarsekreteraren Marianne Jidhoff." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Arvet från Stonehenge", "by": "Christer, Sam", "reviewer": "Helen Forsberg", "preamble": "Ett mord och vad som ser ut som ett självmord inleder denna spännande deckare som har en intressant historisk kärna. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Askungar", "by": "Ohlsson, Kristina", "reviewer": "Eva Häggström", "preamble": "Tänk vilken mardröm. Hur kan en liten flicka försvinna från ett x2000-tåg mellan Göteborg och Stockholm?" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bara knyt, Alfons!", "by": "Bergström, Gunilla", "reviewer": "Susanne Åberg", "preamble": "Alfons har precis lärt sig knyta och får ta både stora snör-rullen och alla garnnystan för pappa." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Babysimboken", "by": "Rosengren, Ludmilla", "reviewer": "Maria Nordenback", "preamble": "Vill du läsa den kompletta handboken i babysim och har du dessutom medicinska frågor du funderar över är detta din bok. Författaren är läkare och grundare av Svenska Babysimförbundet." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Babels torn i Bojtikken", "by": "Löfström, Björn", "reviewer": "Wiveca (Vicky) Uhlander", "preamble": "Ett myller av människor har underhållit mig en del av sommaren när jag läst Björn Löfströms bok Babels torn i Bojtikken med underrubriken Jojkar från Västerbottens lappmark. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Barn 44", "by": "Smith, Tom Rob", "reviewer": "Sonja Viklund", "preamble": "Alla som gillar att sträckläsa spännande böcker får inte missa Barn 44!" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Att kyssas genom ett hissgaller", "by": "Gustavsdotter, Maria", "reviewer": "Kerstin Hasselgärde", "preamble": "Vem har inte fastnat i en hiss?" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Berlinerpopplarna", "by": "Ragde, Anne B", "reviewer": "Desirée Kemi-Wikzén", "preamble": "Desirée Kemi-Wikzén, journalist och författare från Tväråbäck utanför Vännäs, tipsar om en bok där familjehemligheter lyfts till ytan." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Back to Basics", "by": "Aguilera, Christina", "reviewer": "Åza Sjöstam", "preamble": "Jag vill tipsa om ett härligt dubbelalbum från 2006 med Christina Aguilera, \"Back to Basics\"." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bakom masken", "by": "Lundberg Hahn, Kerstin", "reviewer": "Annika Edlund", "preamble": "Cykeltjuvar och cykelsabotörer härjar. Tre klasskamrater bestämmer sig för att ta reda på vilka de är." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Berts dagbok", "by": "Olsson, Sören", "reviewer": "Harris", "preamble": "En bra bok om kärlek. Bert blir kär, men är det besvarat?" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Barndom", "by": "Carpelan, Bo", "reviewer": "Tommy Sundin", "preamble": "När Bo Carpelan ska berätta om sin barndom kallar han sig Davi och väljer enklast tänkbara titel: Barndom." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Balladen om en bruten näsa", "by": "Svingen, Arne", "reviewer": "Annika Edlund", "preamble": "Bart och mamma bor i en sunkig etta. Hon vill att han ska boxas för att bli tuff. Själv älskar han operasång. I skolan är han luft för de flesta utom Ada. Hon hälsar på hemma till och med, men kan dessvärre inte hålla tyst om hur Bart har det. Snart vet alla." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Augustenbad en sommar", "by": "Jordahl, Anneli", "reviewer": "Sonja Viklund", "preamble": "En kurort i en liten avkrok får ta emot en mycket motsträvig patient, som har allt annat än kalla bad och stärkande gymnastik i tankarna." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Books can be deceiving", "by": "McKinlay, Jenn", "reviewer": "Aina Gustavsson", "preamble": "Att svara på svåra referensfrågor är det mest spännande i tillvaron för bibliotekarien Lindsey Norris. Det vill säga, ända tills ett mord sker i hennes nya hemstad." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Besökarens skugga", "by": "Ollmark, Lena", "reviewer": "Helen Forsberg", "preamble": "Det händer konstiga saker på skolan sedan Agnes började där. Vad håller hon på med egentligen, eller är det inte hon, är det en poltergeist?" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bortom världen utanför", "by": "Andersson, Hedvig", "reviewer": "Annika Edlund", "preamble": "Berättelsen om Sara kryper under skinnet på läsaren. Hedvig Andersson debuterar med en mycket välskriven men fruktansvärt otäck historia om förtryck." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blod", "by": "Anderberg Strollo, Åsa", "reviewer": "Annika Edlund", "preamble": "En ny bok av Åsa Anderberg Strollo. En bok om identitet, om att plötsligt misstänka att man kanske inte är den man är eller trott sig vara." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bockarna Bruse på badhuset", "by": "Rörvik, Björn F", "reviewer": "Annika Edlund", "preamble": "Nu har vi fått en badhusvariant av den välkända sagan om Bockarna Bruse. Den är lite crazy, lite knäpp, men helt superduper. Jag gillar den verkligen." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Borttappat: katt, kompis, kalsong", "by": "Lindell, Elin", "reviewer": "Annika Edlund", "preamble": "Jördis och Judith är bästisar och tycker lika om nästan allting. När Hermione kommer till klassen förändras en hel del. Jördis strular till det rejält." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Blandat blod", "by": "Mazetti, Katarina", "reviewer": "Helen Forsberg", "preamble": "Svarte är handelsresande från Blecinga kring år 1000. På en resa till Kiev träffar han Milka och kärlek uppstår omedelbart. Men vad Svarte inte vet är att han är bortlovad till en annan." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Billy och mormor", "by": "Stenberg, Birgitta", "reviewer": "Åsa Grenholm", "preamble": "Mormor kommer på besök till Billy och har med sig tamråttan Amalia." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bitter spirits", "by": "Bennett, Jenn", "reviewer": "Aina Gustavsson", "preamble": "Det är det glada 1920-talet i förbudstidens San Fransisco, fullt av olagligt drickande, rå lust och svart magi.  " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Afrikanen", "by": "Le Clézio, Jean-Marie Gustave", "reviewer": "Tommy Sundin", "preamble": "Författaren J.M.G. Le Clézio har med boken Afrikanen skapat ett gripande fadersporträtt." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Alla dör", "by": "Lundqvist, Jesper", "reviewer": "Eva Gustafsson", "preamble": "Rappt och roligt, men också allvarligt, om döden som verkligen drabbar alla." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Angel with two faces", "by": "Upson, Nicola", "reviewer": "Aina Gustavsson", "preamble": "En ung man har drunknat i Cornwall och snart sker fler mystiska händelser. Archie Penrose blir vittne till ett mord och tillsammans med Josephine Tey utreder han omständigheterna." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Ankomsten", "by": "Tan, Shaun", "reviewer": "Linnea Sandberg", "preamble": "En ordlös, gripande grafisk roman om migration." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Allan Zongo - killen från rymden", "by": "Einspor, Henrik", "reviewer": "Anonym", "preamble": "En spännande bok om Max som plötsligt får en alien som rumskompis." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Alvin, eldpojken", "by": "Engelbrecht, Stina", "reviewer": "Andrea Ejelöv", "preamble": "Eldpojkarnas facklor har slocknat och Alvin är den enda som kan tända dem igen." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Allt för min syster", "by": "Picoult, Jodi", "reviewer": "Alva", "preamble": "Den här boken är så bra att man nästan blir rädd. Jag har läst den förut, men jag läste ut den för andra gången nu i förmiddags och den är verkligen otrolig!" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Alena - En queer grafisk skräckroman", "by": "Andersson, Kim W", "reviewer": "Christer Edeholt", "preamble": "En riktigt mysig, blodig skräckromantisk historia." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Amerikahuset", "by": "Karlsson, Sven Olov", "reviewer": "Lars Karlsson", "preamble": "En oromantisk och trovärdig roman om livet på landsbygden." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Annas himmel", "by": "Hole, Stian", "reviewer": "Annika Edlund", "preamble": "En magiskt vacker bok om den svåra sorgen hos flickan Anna och hennes pappa när mamman har dött. En bok att finna tröst i." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Annihilation", "by": "VanderMeer, Jeff", "reviewer": "Lennart Kihlberg", "preamble": "Ännu en expedition ska bege sig till Area X. Alla tidigare expeditioner har slutat med att medlemmarna försvunnit eller dött. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Apocalypse Now Redux", "by": "Daniel Gunnestam", "reviewer": "Jenny Berggren", "preamble": "En vacker och förvånansvärt ljus filmatisering av de klassiska Alice-böckerna." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Apan och jag", "by": "Lindström, Eva", "reviewer": "Annika Edlund", "preamble": "Eva Lindström har just kommit med en bilderbok för lite yngre barn. En rimmad bok om lusten och våndan av att ha Apan som vän." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Analys av ett mord", "by": "Rubenfeld, Jed", "reviewer": "Aina Gustavsson", "preamble": "Mord + psykoanalys = (Intres)sant!éEn bok som jag varmt kan rekommendera till alla som är intresserade av psykologi men även gillar deckare." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bara inte du", "by": "Bredow, Katarina von", "reviewer": "Sally Andersson", "preamble": "En tjej blir kär i sin bästa kompis kille." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Begravda i himlen", "by": "Zuckerman, Peter", "reviewer": "Mats Enarsson", "preamble": "Expeditionen på K2 i Himalaya i augusti 2008 kostade elva personer livet. Peter Zuckerman och Amanda Padoan berättar de två överlevandes historia." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Babel", "by": "Robert Rösth", "reviewer": "Flinn, Alex", "preamble": "Han är skitsnygg, rik, elak och egoistisk. Kyle Kingsbury är den populäraste killen på skolan och han vet om det. För honom är alla som inte är snygga, losers och inte värda ett vitten." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bellas band", "by": "Dömstedt, Tomas", "reviewer": "Anna Holmström", "preamble": "I den här boken får man lära känna Bella, en helt vanlig tjej som en dag får följa sin pappa på en rockkonsert." }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Bert och ryska invasionen", "by": "Olsson, Sören", "reviewer": "Calle Bromark", "preamble": "Jag valde att läsa boken efter att jag blev tipsad av kompisar. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Barns syn på vuxna", "by": "Arnér, Elisabeth", "reviewer": "Åsa Grenholm", "preamble": "Hur ser en 6-åring på de vuxna i dess närhet? Hur ser barnet på de regler och de instruktioner som vuxna ger? Är det så att barn bara får bestämma när de ändå vill samma sak som den vuxne?" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Barnbarnsboken", "by": "Alfvén, Malin", "reviewer": "Kristina Andersson", "preamble": "Bokens motto: \"Det finns vissa barn som är finare, vackrare, intelligentare och duktigare än andra. Det är barnbarn!\"" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Beredd på det värsta", "by": "Allin, Lou", "reviewer": "Aina Gustavsson", "preamble": "Sandras man har dött i cancer och nu lever hon ensam med sin tolvåriga dotter. " }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Augustinatt", "by": "Mangold, Maud", "reviewer": "Annika Edlund", "preamble": "Nora och Alfons är ensamma hemma i sommarvärmen. En kväll hittar Nora ett övergivet barn i trädgården. Vem har lämnat det där? På vilket sätt hänger det ihop med deras försvunna katt?" }
+{ "index" : { "_index" : "esdemo-reviews"} }
+{ "title": "Polisen på taket", "by": "Persson, Leif GW", "reviewer": "Konstapel Karlsson", "preamble": "Varför stannar ofta superhjältar på taket? För att enklare kunna hitta skurkarna så klart!" }

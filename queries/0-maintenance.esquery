@@ -1,0 +1,7 @@
+DELETE esdemo-*
+
+GET _cat
+
+GET _cat/indices
+
+GET _cat/health

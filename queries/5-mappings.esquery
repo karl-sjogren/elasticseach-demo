@@ -1,0 +1,63 @@
+DELETE esdemo-reviews
+
+PUT esdemo-reviews
+{
+  "mappings": {
+    "properties": {
+      "title": {
+        "type": "text",
+        "analyzer": "swedish",
+        "fields": {
+          "raw": { 
+            "type":  "keyword"
+          }
+        }
+      },
+      "preamble": {
+        "type": "text",
+        "analyzer": "swedish",
+        "fields": {
+          "raw": { 
+            "type":  "keyword"
+          }
+        }
+      },
+      "by": {
+        "type": "keyword"
+      },
+      "reviewer": {
+        "type": "keyword"
+      }
+    }
+  },
+  "settings": {
+    "analysis": {
+      "filter": {
+        "swedish_stop": {
+          "type": "stop",
+          "stopwords": "_swedish_" 
+        },
+        "swedish_keywords": {
+          "type": "keyword_marker",
+          "keywords": ["exempel"] 
+        },
+        "swedish_stemmer": {
+          "type": "stemmer",
+          "language": "swedish"
+        }
+      },
+      "analyzer": {
+        "folded_swedish": {
+          "tokenizer":  "standard",
+          "filter": [
+            "lowercase",
+            "swedish_stop",
+            "swedish_keywords",
+            "swedish_stemmer",
+            "asciifolding"
+          ]
+        }
+      }
+    }
+  }
+}

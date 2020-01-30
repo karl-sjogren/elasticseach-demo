@@ -1,0 +1,40 @@
+GET esdemo-reviews/_analyze
+{
+  "field" : "preamble",
+  "text" : "När polisen inte lyssnar på mrs McGillicuddy"
+}
+
+GET esdemo-reviews/_analyze
+{
+  "analyzer": "keyword",
+  "text" : "När polisen inte lyssnar på mrs McGillicuddy"
+}
+
+GET esdemo-reviews/_analyze
+{
+  "tokenizer": {
+    "type": "edge_ngram",
+    "min_gram": 1,
+    "max_gram": 14
+  },
+  "text" : "När polisen inte lyssnar på mrs McGillicuddy"
+}
+
+GET /_analyze
+{
+  "tokenizer" : "standard",
+  "filter" : ["asciifolding", "lowercase"],
+  "text" : "När polisen inte lyssnar på mrs McGillicuddy"
+}
+
+GET esdemo-reviews/_analyze
+{
+  "analyzer" : "swedish",
+  "text" : "När polisen inte lyssnar på mrs McGillicuddy"
+}
+
+GET esdemo-reviews/_analyze
+{
+  "analyzer" : "swedish",
+  "text" : "Yxmördaren Julia Blomqvist på fäktning i Schweiz"
+}

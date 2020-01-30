@@ -1,0 +1,87 @@
+GET esdemo-animals/_search
+
+GET esdemo-reviews/_search
+
+GET esdemo-reviews/_search
+{
+    "query": {
+        "match": {
+            "by": "King, Stephen"
+        }
+    }
+}
+
+GET esdemo-reviews/_search
+{
+    "query": {
+        "bool": {
+            "should": [
+                {
+                    "match": {
+                        "by": "King, Stephen"
+                    }
+                },
+                {
+                    "match": {
+                        "by": "Christie, Agatha"
+                    }
+                }
+            ]
+        }
+    }
+}
+
+GET esdemo-reviews/_search
+{
+    "query": {
+        "match": {
+            "preamble": "Polis"
+        }
+    }
+}
+
+GET esdemo-reviews/_search
+{
+    "query": {
+        "multi_match": {
+            "fields": [
+                "*"
+            ],
+            "query": "Blædel"
+        }
+    }
+}
+
+---------------> Analyzing!
+
+GET esdemo-reviews/_search
+{
+    "query": {
+        "multi_match": {
+            "fields": [
+                "title",
+                "preamble"
+            ],
+            "query": "Polis"
+        }
+    }
+}
+
+GET esdemo-reviews/_search
+{
+    "query": {
+        "multi_match": {
+            "fields": [
+                "title^2",
+                "*"
+            ],
+            "query": "Polisen"
+        }
+    }
+}
+
+tf-idf
+
+tf(t in d) = √frequency 
+idf = 1 + ln(maxDocs/(docFreq + 1))
+norm = 1/sqrt(numFieldTerms)

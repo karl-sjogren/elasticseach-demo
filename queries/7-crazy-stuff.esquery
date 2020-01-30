@@ -1,0 +1,54 @@
+GET esdemo-reviews/_search
+{
+    "query": {
+        "more_like_this" : {
+            "fields" : ["preamble"],
+            "min_term_freq" : 1,
+            "max_query_terms" : 5,
+            "like" : [
+                {
+                    "_index" : "esdemo-reviews",
+                    "_id" : "GJPV9W8BonxjB2m2XSfW"
+                }
+            ]
+        }
+    }
+}
+
+GET esdemo-reviews/_search
+{
+    "track_scores": true,
+    "query": {
+        "function_score": {
+            "query": {
+                "match_all": { }
+            },
+            "script_score" : {
+                "script" : {
+                    "source": "
+                        int min = 5;
+                        int max = 10;
+                        (Math.random() * (max - min)) + min;
+                        "
+                }
+            }
+        }
+    }
+}
+
+GET esdemo-reviews/_search
+{
+    "track_scores": true,
+    "query": {
+        "function_score": {
+            "query": {
+                "match_all": { }
+            },
+            "script_score" : {
+                "script" : {
+                    "source": "doc['by'].value.length()"
+                }
+            }
+        }
+    }
+}
